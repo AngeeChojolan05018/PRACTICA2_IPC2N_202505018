@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Here Comes The Sun - Remastered 2009",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "duracion": 4
+  },
+  {
+    "titulo": "Whole Lotta Love - 1990 Remaster",
+    "artista": "Led Zeppelin",
+    "genero": "Rock",
+    "duracion": 5
+  },
+  {
+    "titulo": "Comfortably Numb",
+    "artista": "Pink Floyd",
+    "genero": "Rock",
+    "duracion": 6
+  }
+]
