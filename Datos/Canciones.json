@@ -9,12 +9,37 @@
     "titulo": "Whole Lotta Love - 1990 Remaster",
     "artista": "Led Zeppelin",
     "genero": "Rock",
-    "duracion": 5
+    "duracion": 4
   },
   {
     "titulo": "Comfortably Numb",
     "artista": "Pink Floyd",
     "genero": "Rock",
-    "duracion": 6
-  }
+    "duracion": 4
+
+     },
+    {
+        "Titulo": "Bohemian Rhapsody",
+        "Artista": "Queen",
+        "Genero": "Rock",
+        "Duracion": 4
+    },
+    {
+        "Titulo": "Billie Jean",
+        "Artista": "Michael Jackson",
+        "Genero": "Pop",
+        "Duracion": 3
+    },
+    {
+        "Titulo": "Take Five",
+        "Artista": "Dave Brubeck",
+        "Genero": "Jazz",
+        "Duracion": 5
+    },
+    {
+        "Titulo": "Clair de Lune",
+        "Artista": "Claude Debussy",
+        "Genero": "Clásica",
+        "Duracion": 8
+    }
 ]

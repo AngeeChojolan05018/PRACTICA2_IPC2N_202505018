@@ -1,0 +1,6 @@
+﻿digraph Cola {
+rankdir=LR;
+bgcolor="#071423";
+node [shape=box, style="rounded,filled", fillcolor="#0A1E30", color="#4DB8FF", fontcolor="white"];
+edge [color="#4DB8FF"];
+}
